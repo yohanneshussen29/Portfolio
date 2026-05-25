@@ -267,7 +267,7 @@ export default function Portfolio() {
               <form className="flex flex-col gap-4">
                 <input type="text" placeholder="Name" className="w-full bg-[#111827] text-white px-4 py-4 rounded-lg outline-none border border-transparent focus:border-cyan-400 transition" />
                 <input type="email" placeholder="Email" className="w-full bg-[#111827] text-white px-4 py-4 rounded-lg outline-none border border-transparent focus:border-cyan-400 transition" />
-                <textarea rows="4" placeholder="Message" className="w-full bg-[#111827] text-white px-4 py-4 rounded-lg outline-none border border-transparent focus:border-cyan-400 transition resize-none"></textarea>
+                <textarea placeholder="Message" className="w-full bg-[#111827] text-white px-4 py-4 rounded-lg outline-none border border-transparent focus:border-cyan-400 transition resize-none"></textarea>
                 <button type="submit" className="mt-2 w-full md:w-32 py-3 bg-[#111827] hover:bg-gray-800 text-white font-bold rounded-lg transition md:self-start">
                   Send
                 </button>

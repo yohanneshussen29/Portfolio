@@ -1,7 +1,5 @@
-import React from 'react';
 import {
-  Phone, Mail, MapPin, Monitor, Smartphone, Video, Code, ArrowRight,
-  Image
+  Phone, Mail, Monitor, Smartphone, Code, ArrowRight,
 } from 'lucide-react';
 import { FaFacebookF, FaInstagram, FaLinkedinIn } from 'react-icons/fa';
 import profileImg from "./assets/web-developer.png";
